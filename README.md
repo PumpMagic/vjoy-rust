@@ -1,3 +1,6 @@
+# Heads Up!
+This code's old and dusty, and was developed for a narrow use case. If you are interested in using vJoy with Rust, I encourage you to use this repo only as a starting point for a proper library.
+
 # Directory Tree
 * src: Rust sources
 * vjoy-headers: vJoy C header files
