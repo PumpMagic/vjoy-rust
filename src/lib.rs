@@ -1,4 +1,5 @@
 mod vjoy_bindgen;
+pub use vjoy_bindgen::*;
 
 #[cfg(test)]
 mod tests {
